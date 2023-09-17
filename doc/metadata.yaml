@@ -1,0 +1,30 @@
+description: The module uses two Freescale H-Bridges MC17511A. Power supply is 2.0-6.8V,
+  current 1A, max 3A (per bridge). It is intended for driving small motors.
+github_branch: MPC17511HB01A
+github_description: The module uses two Freescale H-Bridges MC17511A. Power supply
+  is 2.0-6.8V, current 1A, max 3A (per bridge). It is intended for driving small motors.
+github_repo: MPC17511HB01
+github_url: https://github.com/mlab-modules/MPC17511HB01
+homepage: false
+images:
+- doc/img/MPC17511HB01A_top_small.jpg
+- doc/img/Odpory.jpg
+- doc/img/MPC17511HB01A_Bot_small.jpg
+- doc/img/MPC17511HB01A_top_Icon.jpg
+- doc/img/MPC17511HB01A_Bot_Icon.jpg
+- doc/html/MPC17511HB01A_Files/image002.jpg
+- doc/html/MPC17511HB01A_Files/image008.jpg
+- doc/html/MPC17511HB01A_Files/image009.jpg
+- doc/html/MPC17511HB01A_Files/image001.jpg
+- doc/html/MPC17511HB01A_Files/image010.jpg
+- doc/img/MPC17511HB01A_QRcode.png
+- doc/html/MPC17511HB01A_Files/image005.png
+- doc/html/MPC17511HB01A_Files/image007.png
+- doc/html/MPC17511HB01A_Files/image006.png
+- doc/html/MPC17511HB01A_Files/image004.png
+- doc/html/MPC17511HB01A_Files/image003.png
+mark: 50
+status: 0
+tags: []
+title: MPC17511HB01
+updated: '2023-09-17T11:38:38.917884+00:00'
